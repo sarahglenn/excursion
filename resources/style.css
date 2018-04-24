@@ -2,6 +2,16 @@
   font-family: verdana;
 }
 
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
 body {
     font-family: Verdana, sans-serif;
     text-align: center;
@@ -17,4 +27,9 @@ p {
 .footer {
   text-align: right;
   color: gray;
+}
+
+a {
+  color: 	aquamarine;
+  font-size: 16px;
 }
